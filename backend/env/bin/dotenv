@@ -1,4 +1,4 @@
-#!/home/aayush/robot-fleet-monitoring-dashboard/backend/env/bin/python3
+#!/home/aayush/robofleet-dashboard/backend/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
